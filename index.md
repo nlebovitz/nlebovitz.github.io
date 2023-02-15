@@ -2,10 +2,8 @@
 
 ---
 
-### Test 1 
-
 [Machine Learning on NBA Data](/ML_NBA)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot 2023-02-14 at 9.49.04 PM.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
