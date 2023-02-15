@@ -4,7 +4,7 @@
 
 ### Test 1 
 
-Machine Learning on NBA Data(/sample_page)
+[Machine Learning on NBA Data](/ML_NBA)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
